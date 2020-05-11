@@ -162,6 +162,7 @@ h1 button {
   padding: 10px 0;
   position: absolute;
   top: 0;
+  color: #eee;
   bottom: 0;
   width: 100%;
   transition: 0.3s ease;
