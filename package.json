@@ -1,0 +1,19 @@
+{
+  "name": "digital-flashcards",
+  "version": "1.0.0",
+  "description": "basic flash cards",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syndicate555/Digital-Flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syndicate555/Digital-Flashcards/issues"
+  },
+  "homepage": "https://github.com/Syndicate555/Digital-Flashcards#readme"
+}
