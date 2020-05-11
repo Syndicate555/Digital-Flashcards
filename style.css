@@ -48,7 +48,7 @@ h1 button {
 }
 
 .clear {
-  position: relative;
+  position: absolute;
   bottom: 30px;
   left: 30px;
 }
