@@ -6,6 +6,8 @@ var params = {
   file: "index.html",
   wait: 1000,
 };
+
+liveServer.start(params);
 const cardsContainer = document.getElementById("cards-container");
 const prevBtn = document.getElementById("prev");
 const nextBtn = document.getElementById("next");
