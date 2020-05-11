@@ -169,6 +169,7 @@ h1 button {
 }
 
 .add-container.show {
+  color: #eee;
   opacity: 1;
   z-index: 2;
 }
