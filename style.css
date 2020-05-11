@@ -130,7 +130,7 @@ h1 button {
   right: 10px;
   font-weight: bold;
   font-size: 16px;
-  color: #ddd;
+  color: rgb(221, 221, 221);
 }
 
 .navigation {
