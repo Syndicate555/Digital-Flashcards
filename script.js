@@ -1,3 +1,11 @@
+var liveServer = require("live-server");
+var params = {
+  port: 8181,
+  root: "./",
+  open: true,
+  file: "index.html",
+  wait: 1000,
+};
 const cardsContainer = document.getElementById("cards-container");
 const prevBtn = document.getElementById("prev");
 const nextBtn = document.getElementById("next");
